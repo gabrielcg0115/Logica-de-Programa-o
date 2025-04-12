@@ -1,3 +1,19 @@
+// Passos para fazer um sanduíche:
+
+//Pegue duas fatias de pão.
+
+//Passe maionese em uma das fatias.
+
+//Coloque uma fatia de queijo.
+
+//Coloque uma fatia de presunto.
+
+//Feche o sanduíche com a outra fatia de pão.
+
+//Corte ao meio (opcional).
+
+//Sirva.
+
 using System;
 
 class Program
